@@ -4,7 +4,7 @@
 
 ---
 <div align="center">
-    <img src="https://github-immortality.vercel.app/api?username=BayesianAura" alt="GitHub 统计" width="80%" />
+    <img src="https://github-immortality.vercel.app/api?username=wuhaostudio" alt="GitHub 统计" width="80%" />
 </div>
 
 ---
