@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5A059&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+BayesianAura+%7C+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5A059&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+wuhaostudio+%7C+ML+Engineer)](https://git.io/typing-svg)
 </br>
 🚀 **Passionate about building the next generation of intelligent systems with Artificial Intelligence!**
 
